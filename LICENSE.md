@@ -5,7 +5,7 @@
 ```plaintext
 MIT License
 
-Copyright (c) 2025 Agambir Singh Duggal
+Copyright (c) 2025 Anmol Arora
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
